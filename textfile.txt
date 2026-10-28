@@ -1,0 +1,4 @@
+text ="""The quick brown fox jumps over the lazy dog.
+Python makes file handling simple and intuitive.
+This is a sample text piece saved to a file.
+It can be read, written, or appended as needed."""
